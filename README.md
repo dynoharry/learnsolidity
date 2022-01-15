@@ -1,6 +1,6 @@
 # learnsolidity
-This rpository contains code related to solidity
-all the code files are created while learing and practicing solidity
-you may freely copy/modify/update any of the code
-this code is not for production deplyoment, we do not gaurentee any or whole functionality of the code
-use at your own risk
+This rpository contains code related to solidity.
+All the code files are created while learing and practicing solidity.
+You may freely copy/modify/update any of the code.
+This code is not for production deplyoment, we do not gaurentee any or whole functionality of the code.
+Use at your own risk.
